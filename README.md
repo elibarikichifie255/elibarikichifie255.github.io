@@ -94,7 +94,7 @@ For the expressions  of the form  aG(bRc) , the rearrangements of parameters can
 
 Now the extended associative rule is defined as  aG(bRc)=(a<sa,G,R>b)<seo,G,R>c.
 
-And the extended distributive rule is defined as  aG(bRc)=(aGb)<si,G,R>(aRc).
+And the extended distributive rule is defined as  aG(bRc)=(aGb)<si,G,R>(aGc).
 
 
    																																																																																																																															ELIBARIKI CHIFIE
